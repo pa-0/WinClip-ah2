@@ -2,8 +2,8 @@
 #SingleInstance Force
 
 
-#Include "Lib\WinClipAPI.ahk"
-#Include "Lib\WinClip.ahk"
+#Include "WinClipAPI.ahk"
+#Include "WinClip.ahk"
 
 #HotIf WinActive("ahk_exe ONENOTE.EXE")
 
